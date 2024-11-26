@@ -1,0 +1,112 @@
+{
+  "dpo_bookcross_0": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/bookcross/proc_data/dpo_bookcross_0.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_bookcross_1": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/bookcross/proc_data/dpo_bookcross_1.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_bookcross_2": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/bookcross/proc_data/dpo_bookcross_2.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_bookcross_3": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/bookcross/proc_data/dpo_bookcross_3.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_toys_0": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/toys/proc_data/dpo_toys_0.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_toys_1": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/toys/proc_data/dpo_toys_1.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_toys_2": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/toys/proc_data/dpo_toys_2.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_toys_3": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/toys/proc_data/dpo_toys_3.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_ml-1m_0": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/ml-1m/proc_data/dpo_ml-1m_0.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_ml-1m_1": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/ml-1m/proc_data/dpo_ml-1m_1.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "dpo_ml-1m_2": {
+    "file_name": "/mnt/data/0/LLM4Rec/CTR/data/ml-1m/proc_data/dpo_ml-1m_2.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  }
+}

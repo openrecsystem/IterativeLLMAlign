@@ -1,0 +1,13 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: /mnt/data/0/LLM4Rec/llm_models/bookcross/llama3_lora_llm4rec_dpo_bookcross_0
+adapter_name_or_path: /mnt/data/0/LLM4Rec/LLaMA-Factory-main/saves/llama3-8b/lora/dpo/bookcross/llama3_lora_llm4rec_dpo_bookcross
+template: llama3
+finetuning_type: lora
+
+### export
+export_dir: /mnt/data/0/LLM4Rec/llm_models/bookcross/llama3_lora_llm4rec_dpo_bookcross_1
+export_size: 2
+export_device: cpu
+export_legacy_format: false
