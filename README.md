@@ -19,5 +19,5 @@ pip install -r requirements.txt
 
 5. **Navigate to Project Root and Run:**
 ```
-bash run_scripts.sh
+bash ml_scripts.sh
 ```
